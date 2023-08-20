@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+.container {
+    background-color: cornflowerblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 310px;
+    height: 453px;
+    padding: 15px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 4px 4px 6px gray;
+}
+.input {
+    width: 308px;
+    height: 70px;
+    font-size: 35px;
+    font-family: 'Open Sans', sans-serif;
+}
+/* 버튼 디자인 */
+.c {
+    width: 70px;
+    height: 70px;
+    margin-top: 7px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.bracket {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.per {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.division {
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.seven {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.eight {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.nine {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.multiplication {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.four {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.five {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.six {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.minus {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.one {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.two {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.three {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.plus {
+    width: 70px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.zero {
+    width: 222px;
+    height: 70px;
+    margin-top: 2px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+.equal {
+    width: 70px;
+    height: 70px;
+    margin-top: 5px;
+    border-radius: 100px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
